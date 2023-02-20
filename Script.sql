@@ -36,3 +36,7 @@ update animales set estado = 'Feliz' where id = 2;
 -- Eliminar un registro de la tabla animales
 delete from animales where id = 2;
 
+
+
+
+
