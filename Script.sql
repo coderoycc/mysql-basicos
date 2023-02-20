@@ -37,6 +37,8 @@ update animales set estado = 'Feliz' where id = 2;
 delete from animales where id = 2;
 
 
+-- muestra las bases de datos
+show databases;
 
 
 
